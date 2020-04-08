@@ -48,7 +48,7 @@ def get_data():
                     "name": "IT Backup",
                     "label": _("IT Backup"),
                     "description": _("IT Backup")
-                }
+                },
             ]
         },
         {
@@ -89,7 +89,7 @@ def get_data():
                     "name": "IT Software",
                     "label": _("IT Software"),
                     "description": _("IT Software")
-                }
+                },
             ]
         },
         {
@@ -112,7 +112,7 @@ def get_data():
                     "name": "Location Room",
                     "label": _("Location Room"),
                     "description": _("Location Room")
-                }
+                },
             ]
         },
         {
@@ -141,7 +141,7 @@ def get_data():
                     "name": "Subnet Block",
                     "label": _("Subnet Block"),
                     "description": _("Subnet Block")
-                }
+                },
             ]
         },
         {
@@ -164,7 +164,7 @@ def get_data():
                     "name": "Timesheet",
                     "label": _("Timesheet"),
                     "description": _("Timesheet")
-                }
+                },
             ]
         },
         {
@@ -175,7 +175,7 @@ def get_data():
                     "name": "IT Management Settings",
                     "label": _("Settings"),
                     "description": _("IT Management Settings")
-                }
+                },
             ]
         }
     ]
